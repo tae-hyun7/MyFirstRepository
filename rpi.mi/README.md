@@ -1,2 +1,2 @@
 ## 라즈베리파이 
-[png](./png/README.md)
+[png](/png/README.md)
